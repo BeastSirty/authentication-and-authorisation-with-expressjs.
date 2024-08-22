@@ -29,4 +29,4 @@ Based on my knowledge performing this quest, i came to a conclusion that the **d
 
 ## CONCLUSION:
 
-By implementing a more robust authorization mechanism, we can ensure that users have the necessary permissions to delete their own accounts, while also protecting the system from security vulnerabilities and data integrity issues. 
+By implementing a more robust authorization mechanism, we can ensure that users have the necessary permissions to delete their own accounts, while also protecting the system from security vulnerabilities and data integrity issues.  
